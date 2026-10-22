@@ -21,7 +21,7 @@ A real-time computer vision project built with Python and OpenCV. Virtual Paint 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/PawanTeja-Max/Virtual-paint.git
 cd "virtual paint"
 ```
 
